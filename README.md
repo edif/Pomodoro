@@ -3,4 +3,4 @@ The Pomodoro Timer is a simple program that helps users increase their productiv
 
 To use the program, simply run the script and enter the desired work time and break time in the format of "mm:ss" (minutes:seconds). Then press the "Start" button to begin the timer. Press the "Pause" button to pause the timer and the "Reset" button to reset the timer. The program will automatically switch from work time to break time and vice versa.
 
-This program was created by OpenAI.
+This program was created with the help of OpenAI chatGTP.
